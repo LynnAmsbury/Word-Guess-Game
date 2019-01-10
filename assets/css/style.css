@@ -1,0 +1,44 @@
+/* Universal */
+body{
+    background-color: bisque;
+}
+
+div {
+    text-align: center;
+}
+
+/* Header */
+#header {
+    background-image: url("../images/grapevine600x337.jpg");
+    border-bottom: 10px solid darkred;
+    color: yellow;
+    opacity: 1.0;
+    margin-bottom: 50px;
+    padding: 30px;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Charm', cursive;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+/* Game Play Section */
+#game {
+    background-color: white;
+    border: 10px solid darkred;
+    position: relative;
+    left: 400px;
+    height: 400px;
+    width: 500px;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+h2, h3, h4 {
+    font-family: 'Charm', cursive;
+    font-size: 30px;
+    padding: 10px;
+}
