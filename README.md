@@ -15,11 +15,15 @@ Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions
 Use key events to listen for the letters that your players will type.
 
 Display the following on the page:
+
 Press any key to get started!
+
 Wins: (# of times the user guessed the word correctly).
+
 Word Guess Area:
 If the word is madonna, display it like this when the game starts: _ _ _ _ _ _ _.
 As the user guesses the correct letters, reveal them: m a d o _ _ a.
+
 Letters Already Guessed: (Incorrect letters the user has guessed, displayed like L Z Y H).
 
 After the user wins/loses the game should automatically choose another word for the user to play.
